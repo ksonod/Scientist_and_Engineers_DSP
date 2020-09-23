@@ -10,3 +10,7 @@ My study notebook for the book "The Scientist and Engineer's Guide to Digital Si
 
 ## [Chapter 3-2: Sampling Theorem](https://github.com/ksonod/Scientist_and_Engineers_DSP/blob/master/Chap3-2_sampling_theorem.ipynb)
 - Keywords: aliasing, Sampling theorem (Shannon sampling theorem or Nyquist sampling theorem)
+
+## [Chapter 5: Decompositions](https://github.com/ksonod/Scientist_and_Engineers_DSP/blob/master/Chap5_decompositions.ipynb)
+- Keyworkds: Impulse decomposition, Even/Odd decomposition, Interlaced decomposition, Fourier decomposition
+
