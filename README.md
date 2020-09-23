@@ -20,4 +20,4 @@ My study notebook for the book "The Scientist and Engineer's Guide to Digital Si
 
 ## [Chapters 6 and 7: Convolution and Correlation](https://github.com/ksonod/Scientist_and_Engineers_DSP/blob/master/Chaps6and7_convolution_correlation.ipynb)
 - Keyworkds: Convolution, correlation
-<img src="https://github.com/ksonod/my_pictures/blob/master/dsp6.png" width="600px">    
+<img src="https://github.com/ksonod/my_pictures/blob/master/dps6.png" width="600px">    
