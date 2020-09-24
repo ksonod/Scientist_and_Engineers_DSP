@@ -25,3 +25,7 @@ My study notebooks for the book "The Scientist and Engineer's Guide to Digital S
 ## [Chapters 8 and 9: Fourier Transform](https://github.com/ksonod/Scientist_and_Engineers_DSP/blob/master/Chaps8and9_Fourier%20Transform.ipynb)
 - Keywords: Discrete Fourier Transform, resolution
 <img src="https://github.com/ksonod/my_pictures/blob/master/dso89.png" width="600px">    
+
+## [Chapter 14: Introduction to Digital Filters](https://github.com/ksonod/Scientist_and_Engineers_DSP/blob/master/Chap14_intro%20to%20digital%20filters.ipynb)
+- Keywords: Low-pass filter kernel, high-pass filter kernel, band-pass filter kernel, band-reject filter kernel, finite impulse response (FIR) filter 
+<img src="https://github.com/ksonod/my_pictures/blob/master/dso14.png" width="600px">    
