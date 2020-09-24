@@ -21,3 +21,7 @@ My study notebooks for the book "The Scientist and Engineer's Guide to Digital S
 ## [Chapters 6 and 7: Convolution and Correlation](https://github.com/ksonod/Scientist_and_Engineers_DSP/blob/master/Chaps6and7_convolution_correlation.ipynb)
 - Keyworkds: Convolution, correlation
 <img src="https://github.com/ksonod/my_pictures/blob/master/dps6.png" width="600px">    
+
+## [Chapters 8 and 9: Fourier Transform](https://github.com/ksonod/Scientist_and_Engineers_DSP/blob/master/Chaps8and9_Fourier%20Transform.ipynb)
+- Keywords: Discrete Fourier Transform, resolution
+<img src="https://github.com/ksonod/my_pictures/blob/master/dps6.png" width="600px">    
